@@ -1,8 +1,5 @@
 ### W
 
-`building v1b3topia, somewhere in chiang mai.`<br>
-`don't trust, verify.`
-
 **Building tools that turn signals into meaning.**
 
 ---
