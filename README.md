@@ -4,13 +4,28 @@
 
 ---
 
-**now shipping**
+## 🛳️ now shipping
 
-🦑 **[Squish](https://github.com/getsquish/squish)** — give AI random access to video.
-One clip → timestamped contact sheets an agent can navigate and zoom. Apache-2.0.
-`npx -y @getsquish/squish <video>` · [getsquish.app](https://getsquish.app)
+🧠 **[LME – Living Memory Engine](https://github.com/living-memory-engine)**  — a TypeScript context composition engine for agents that remember like minds, not logs.
 
-**research**
+Meet **[Chiang Mai](https://cm.viibe.to/)**, with **Pathum Thani** coming soon. Keep talking in the same conversation—no need to start over. Leave for too long, though, and they'll slowly forget you.
+
+[Read more on DevPost](https://devpost.com/software/living-memory-engine) · Apache-2.0
+
+
+---
+
+🦑 **[Squish](https://github.com/getsquish/squish)** — AI Promitive that give AI random access to video.
+
+Turn long (eg. 2 years cctv records.) recordings into timestamped navigation maps so agents can jump directly to the right moment, cite real timestamps, and zoom for evidence.
+
+Works with any AI that can call a tool — _MCP, HTTP, CLI, SDK, or Web_
+
+[Squish PWA](https://getsquish.app) · [Gitbook Tutotial](https://getsquish.gitbook.io)
+
+[Read more on DevPost](https://devpost.com/software/squish-3dhk54) · Apache-2.0
+
+## 👨🏻‍🔬 research 🔬
 
 | | |
 |---|---|
