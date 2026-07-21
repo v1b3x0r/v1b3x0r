@@ -6,7 +6,7 @@
 
 ## 🛳️ now shipping
 
-🧠 **[LME – Living Memory Engine](https://github.com/living-memory-engine)**  — a TypeScript context composition engine for agents that remember like minds, not logs.
+🧠 **[LME – Living Memory Engine](https://github.com/v1b3x0r/living-memory-engine)**  — a TypeScript context composition engine for agents that remember like minds, not logs.
 
 Meet **[Chiang Mai](https://cm.viibe.to/)**, with **Pathum Thani** coming soon. Keep talking in the same conversation—no need to start over. Leave for too long, though, and they'll slowly forget you.
 
