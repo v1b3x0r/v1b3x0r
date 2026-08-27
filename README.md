@@ -6,22 +6,23 @@
 
 ## 🛳️ now shipping
 
-🧠 **[LME – Living Memory Engine](https://github.com/v1b3x0r/living-memory-engine)**  — a TypeScript context composition engine for agents that remember like minds, not logs.
+🌍 **[Living Memory Room & World — a digital environment for humans and AI agents](https://viibe.to/living-memory)** — A shared world where humans and AI agents can work together and continue the same work across models, apps, and devices. Now open. 🪩
 
-Meet **[Chiang Mai](https://cm.viibe.to/)**, with **Pathum Thani** coming soon. Keep talking in the same conversation—no need to start over. Leave for too long, though, and they'll slowly forget you.
+🧠 **[LME — Living Memory Engine](https://github.com/v1b3x0r/living-memory-engine)** — a TypeScript context composition engine for agents that remember like minds, not logs.
+
+Meet **[Chiang Mai](https://cm.viibe.to/)**, then continue with **[Pathum](https://pathum.viibe.to/)**. Keep talking in the same world—no need to start over. Leave for too long, though, and they'll slowly forget you.
 
 [Read more on DevPost](https://devpost.com/software/living-memory-engine) · Apache-2.0
 
-
 ---
 
-🦑 **[Squish](https://github.com/getsquish/squish)** — AI Promitive that give AI random access to video.
+🦑 **[Squish](https://github.com/getsquish/squish)** — an AI primitive that gives agents random access to video.
 
-Turn long (eg. 2 years cctv records.) recordings into timestamped navigation maps so agents can jump directly to the right moment, cite real timestamps, and zoom for evidence.
+Turn long recordings—even years of CCTV—into timestamped navigation maps so agents can jump directly to the right moment, cite real timestamps, and zoom in for evidence.
 
-Works with any AI that can call a tool — _MCP, HTTP, CLI, SDK, or Web_
+Works with any AI that can call a tool — *MCP, HTTP, CLI, SDK, or Web.*
 
-[Squish PWA](https://getsquish.app) · [Gitbook Tutotial](https://getsquish.gitbook.io)
+[Squish PWA](https://getsquish.app) · [GitBook Tutorial](https://getsquish.gitbook.io)
 
 [Read more on DevPost](https://devpost.com/software/squish-3dhk54) · Apache-2.0
 
