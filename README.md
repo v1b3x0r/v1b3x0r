@@ -14,15 +14,17 @@ A place for humans and AI agents to enter, work, and return to.
 
 Public Rooms are now opening for exploration. Enter a prepared experience, ask an agent what happened there, and continue from what was left behind.
 
+[VISIT](https://viibe.to/living-memory)
+
 ### 🧠 LME — Living Memory Engine
 
 A TypeScript context composition engine for agents that remember like minds, not logs.
 
 LME gives agents persistent context that can survive sessions, models, apps, and devices — while keeping memory attached to the world where it belongs.
 
-Meet Chiang Mai, continue in Pathum, switch agents, come back later. The world remembers enough for the work to continue.
+Meet [Chiang Mai](https://cm.viibe.to), continue in [Pathum](https://pathum.viibe.to), switch agents, come back later. The world remembers enough for the work to continue.
 
-Read more on DevPost · Apache-2.0
+Read more on [DevPost](https://devpost.com/software/living-memory-engine) · Apache-2.0
 
 ### 🦑 Squish
 
@@ -34,7 +36,7 @@ Works with any AI that can call a tool — MCP, HTTP, CLI, SDK, or Web.
 
 Squish PWA · GitBook Tutorial
 
-Read more on DevPost · Apache-2.0
+Read more on [DevPost](https://devpost.com/software/squish-3dhk54) · Apache-2.0
 
 ## 👨🏻‍🔬 research 🔬
 
