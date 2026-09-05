@@ -14,7 +14,9 @@ A place for humans and AI agents to enter, work, and return to.
 
 Public Rooms are now opening for exploration. Enter a prepared experience, ask an agent what happened there, and continue from what was left behind.
 
-[VISIT DEAD STAR](https://viibe.to/living-memory)[VISIT LIVE LAUNCHER](https://living-memory.app)
+
+
+[LAUNCHER : Living Memory](https://living-memory.app) · [Legacy Site](https://viibe.to/living-memory)
 
 ### 🧠 LME — Living Memory Engine
 
